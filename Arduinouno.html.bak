@@ -1,0 +1,70 @@
+<html>
+<title>Arduino Uno</title>
+<style>
+h1 { 
+  display: block;
+  font-size: 3em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+h2 {
+  display: block;
+  font-size: 1.0em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  
+}
+h3 {
+  display: block;
+  font-size: 1.75em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+h4 {
+  display: block;
+  font-size: 1.5em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+
+}
+</style>
+<Body>
+<h1>Arduino Uno</h1>
+<h4>The Arduino Uno is an open-source microcontroller board based on the Microchip ATmega328P microcontroller and developed by Arduino.cc.<h4>
+<img src="arduinouno.jpg" alt="Arduino Uno" style="width:643px;height:482px;">
+<h4>The board has 14 digital I/O pins (six capable of PWM output), 6 analog I/O pins, a 16 MHz ceramic resonator (CSTCE16M0V53-R0), a USB connection, a power jack, an ICSP header, a reset button, and is programmable with the Arduino IDE (Integrated Development Environment), via a type B USB cable. It can be powered by the USB cable or by an external 9-volt battery, though it accepts voltages between 7 and 20 volts.</h4>
+<h3> Tech Specs</h3>
+
+<ul>
+<li><h2>MICROCONTROLLER - ATmega328P</h2></li>
+<li><h2>OPERATING VOLTAGE - 5V</h2></li>
+<li><h2>INPUT VOLTAGE (RECOMMENDED) - 7-12V</h2></li>
+<li><h2>INPUT VOLTAGE (LIMIT) - 6-20V</h2></li>
+<li><h2>DIGITAL I/O PINS - 14 (of which 6 provide PWM output)</h2></li>
+<li><h2>PWM DIGITAL I/O PINS - 6</h2></li>
+<li><h2>ANALOG INPUT PINS - 6</h2></li>
+<li><h2>DC CURRENT PER I/O PIN - 20 mA</h2></li>
+<li><h2>DC CURRENT FOR 3.3V PIN - 50 mA</h2></li>
+<li><h2>FLASH MEMORY - 32 KB (ATmega328P) of which 0.5 KB used by bootloader</h2></li>
+<li><h2>SRAM - 2 KB (ATmega328P)</h2></li>
+<li><h2>EEPROM - 1 KB (ATmega328P)</h2></li>
+<li><h2>CLOCK SPEED - 16 MHz</h2></li>
+<li><h2>BUILT-IN LED - 13</h2></li>
+<li><h2>LENGTH - 68.6 mm</h2></li>
+<li><h2>WIDTH - 53.4 mm</h2></li>
+<li><h2>WEIGHT - 25 g</h2></li>
+</ul>

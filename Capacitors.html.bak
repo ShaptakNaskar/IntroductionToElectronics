@@ -1,0 +1,60 @@
+<html>
+<title>Capacitors</title>
+<style>
+h1 { 
+  display: block;
+  font-size: 3em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+h2 {
+  display: block;
+  font-size: 1.0em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  
+}
+h3 {
+  display: block;
+  font-size: 1.75em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+h4 {
+  display: block;
+  font-size: 1.5em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+
+}
+</style>
+<Body>
+<h1>Capacitors</h1>
+<h4>A capacitor is a device that stores electrical energy in an electric field. It is a passive electronic component with two terminals.</h4>
+<br>
+<figure>
+<img src="Capacitors.jpg" alt="Capacitors" style="width:300px;height:200px;">
+<figcaption>Different Types of Capacitors</figcaption>
+</figure>
+<br>
+
+<h4>The effect of a capacitor is known as capacitance.</h4>
+<br>
+<figure>
+<img src="Types_of_capacitor.svg" alt="Capacitors" style="width:489px;height:226px;">
+<figcaption>Electronic symbol</figcaption>
+</figure>

@@ -1,0 +1,60 @@
+<html>
+<title>Vacuum Tubes</title>
+<style>
+h1 { 
+  display: block;
+  font-size: 3em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+h2 {
+  display: block;
+  font-size: 1.0em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  
+}
+h3 {
+  display: block;
+  font-size: 1.75em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+h4 {
+  display: block;
+  font-size: 1.5em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+
+}
+</style>
+<Body>
+<h1>Vacuum Tubes</h1>
+<h4>Vacuum Tubes, Alternatively referred to as valve, is a glass device which were used for amplification of a weak current, rectification of an alternating current (AC) to direct current (DC), generation of oscillating radio-frequency (RF) power for radio and radar, and creation of images on a television screen or computer monitor.</h4>
+<br>
+<br>
+<figure>
+<img src="vacuum-tube.jpg">
+<figcaption>Vacuum Tubes</figcaption>
+</figure>
+<h4>The vacuum tube is a glass tube with its gas removed, creating a vacuum. Vacuum tubes contain electrodes for controlling electron flow and were used in early computers as a switch or an amplifier.<br>
+
+By using vacuum tubes instead of a mechanical relays computers could move away from mechanical switching and speed up the switching on and off the flow of electrons.<br>Vacuum tubes were also used in radios, televisions, radar equipment, and telephone systems during the first half of the 1900s.<br>
+
+In the 1950s, the transistor started to replace the vacuum tube as vacuum tubes were larger, fragile like a light bulb, and expensive. As computing devices started to become smaller in size, transistors were more ideal to use due to their smaller size as well.<br>
+
+Today, vacuum tubes are primarily used in high-end audio equipment, preferred by some audiophiles as an alternative to digital systems.</h4>

@@ -1,0 +1,49 @@
+<html>
+<title>PIC Development Kit</title>
+<style>
+h1 { 
+  display: block;
+  font-size: 3em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+h2 {
+  display: block;
+  font-size: 1.0em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  
+}
+h3 {
+  display: block;
+  font-size: 1.75em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+h4 {
+  display: block;
+  font-size: 1.5em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+
+}
+</style>
+<Body>
+<h1>PIC Development Kit</h1>
+<h4>PIC Development Kit is based on PIC which is a family of microcontrollers made by Microchip Technology, derived from the PIC1650 originally developed by General Instrument's Microelectronics Division </h4>
+<img src="PIC.jpg" alt="PIC" style="width:350px;height:242px;">
+<h4>The PIC was originally intended to be used with the General Instrument CP1600, the first commercially available single-chip 16-bit microprocessor.<br>The CP1600 had a complex bus that made it difficult to interface with, and the PIC was introduced as a companion device offering ROM for program storage, <br>RAM for temporary data handling, and a simple CPU for controlling the transfers.<br>While this offered considerable power, General Instrument's marketing was limited and the CP1600 was not a success.<br> When the company spun off their chip division to form Microchip in 1985, sales of the CP1600 were all but dead.<br>By this time, the PIC had formed a major market of its own, and it became one of the new company's primary products.</h4>
